@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData">
+  <component name="PublishConfigData" uploadOnCheckin="9ce68683-dc4f-4d68-9134-a7d0c09679ac" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
       <paths name="MRT-RPi2 (9ce68683-dc4f-4d68-9134-a7d0c09679ac)">
         <serverdata>
           <mappings>
-            <mapping deploy="/tmp/MRT-1" local="$PROJECT_DIR$" />
+            <mapping deploy="/home/pi" local="$PROJECT_DIR$" />
           </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-rpi-remote" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-rpi-remote" />
+          </excludedPaths>
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="MRT-RPi2 (9ce68683-dc4f-4d68-9134-a7d0c09679ac)" />
   </component>
 </project>

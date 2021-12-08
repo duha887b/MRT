@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/MRT_Fibonaci.dir/test.c.o -o MRT_Fibonaci 
