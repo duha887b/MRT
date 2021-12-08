@@ -6,7 +6,7 @@
 #include "dynamic_list.h"
 
 //test git
-// test
+// auto upload
 
 
 int main(){
