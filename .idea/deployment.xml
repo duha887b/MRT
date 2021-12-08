@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" uploadOnCheckin="9ce68683-dc4f-4d68-9134-a7d0c09679ac" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
       <paths name="MRT-RPi2 (9ce68683-dc4f-4d68-9134-a7d0c09679ac)">
         <serverdata>
@@ -16,5 +16,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="MRT-RPi2 (9ce68683-dc4f-4d68-9134-a7d0c09679ac)" />
   </component>
 </project>
